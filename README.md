@@ -11,7 +11,7 @@ Predict review sentiment (Positive / Neutral / Negative) from review text, and u
 - `Zomato_Restaurant_reviews.csv` — 10,000 reviews, 100 restaurants.
 - `Zomato_Restaurant_names_and_Metadata.csv` — cost, cuisines, collections, timings for 105 restaurants.
 
-Place both files in a `data/` folder before running the notebook.
+Both files are placed in `data/` folder.
 
 ## Approach
 
