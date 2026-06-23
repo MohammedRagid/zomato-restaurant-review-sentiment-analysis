@@ -8,8 +8,8 @@ Predict review sentiment (Positive / Neutral / Negative) from review text, and u
 
 ## Dataset
 
-- `Zomato_Restaurant_reviews.csv` — 10,000 reviews, 100 restaurants.
-- `Zomato_Restaurant_names_and_Metadata.csv` — cost, cuisines, collections, timings for 105 restaurants.
+- `Zomato Restaurant reviews.csv` — 10,000 reviews, 100 restaurants.
+- `Zomato Restaurant names and Metadata.csv` — cost, cuisines, collections, timings for 105 restaurants.
 
 Both files are placed in `data/` folder.
 
@@ -51,8 +51,8 @@ Run all cells top to bottom. No manual steps needed.
 ├── README.md
 ├── requirements.txt
 └── data/
-    ├── Zomato_Restaurant_reviews.csv
-    └── Zomato_Restaurant_names_and_Metadata.csv
+    ├── Zomato Restaurant reviews.csv
+    └── Zomato Restaurant names and Metadata.csv
 ```
 
 ## Tech Stack
