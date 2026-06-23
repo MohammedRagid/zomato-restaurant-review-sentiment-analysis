@@ -46,13 +46,16 @@ Run all cells top to bottom. No manual steps needed.
 ## Repo Structure
 
 ```
-.
 ├── Zomato_Sentiment_Analysis_Project.ipynb
 ├── README.md
 ├── requirements.txt
-└── data/
-    ├── Zomato Restaurant reviews.csv
-    └── Zomato Restaurant names and Metadata.csv
+├── data/
+│   ├── Zomato Restaurant reviews.csv
+│   └── Zomato Restaurant names and Metadata.csv
+└── model_artifacts/
+    ├── label_encoder.joblib
+    ├── sentiment_model.joblib
+    └── tfidf_vectorizer.joblib
 ```
 
 ## Tech Stack
